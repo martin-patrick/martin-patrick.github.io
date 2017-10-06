@@ -1,0 +1,24 @@
+h1 {
+	color: red; text-align: center
+
+}
+
+body {}
+	
+.first-paragraph {
+	color: blue; 
+    }
+.second-paragraph {
+	color: pink;
+}
+
+.img1 {
+	float: left;
+	text-align: left;
+}
+
+p {
+	margin-left: 6px;
+	z-index: 1;
+	font-family:'Oswald', sans-serif;
+}
